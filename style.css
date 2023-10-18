@@ -3,3 +3,16 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+.img {
+  align-content: center;
+}
+nav {
+  padding: 20px;
+  background-color: grey;
+}
+.figcaption {
+font-size: 10px;
+}
